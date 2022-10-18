@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertyOverloadTest", "PropertyOverloadTest\PropertyOverloadTest.csproj", "{D92914C4-18BD-4E5C-B6C6-F380D935E548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D92914C4-18BD-4E5C-B6C6-F380D935E548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92914C4-18BD-4E5C-B6C6-F380D935E548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92914C4-18BD-4E5C-B6C6-F380D935E548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92914C4-18BD-4E5C-B6C6-F380D935E548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A65FFD-DC56-4E80-BB9B-288E4D637F10}
+	EndGlobalSection
+EndGlobal
